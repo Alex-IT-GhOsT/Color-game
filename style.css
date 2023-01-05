@@ -1,0 +1,26 @@
+#field td {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	text-align: center;
+	font-weight: bold;
+}
+#field{
+	margin: 0 auto;
+}
+.red {
+	background: red;
+}
+.green {
+	background: green;
+}
+.blue {
+	background: blue;
+}
+
+#win{
+	text-align: center;
+}
+#count{
+	text-align: center;
+}
